@@ -1,0 +1,9 @@
+c:\users\mitchell\documents\visual studio 2015\Projects\api_test\api_test\bin\Debug\api_test.exe.config
+c:\users\mitchell\documents\visual studio 2015\Projects\api_test\api_test\bin\Debug\api_test.exe
+c:\users\mitchell\documents\visual studio 2015\Projects\api_test\api_test\bin\Debug\api_test.pdb
+c:\users\mitchell\documents\visual studio 2015\Projects\api_test\api_test\bin\Debug\api.dll
+c:\users\mitchell\documents\visual studio 2015\Projects\api_test\api_test\bin\Debug\api.pdb
+c:\users\mitchell\documents\visual studio 2015\Projects\api_test\api_test\obj\Debug\api_test.csprojResolveAssemblyReference.cache
+c:\users\mitchell\documents\visual studio 2015\Projects\api_test\api_test\obj\Debug\api_test.exe
+c:\users\mitchell\documents\visual studio 2015\Projects\api_test\api_test\obj\Debug\api_test.pdb
+C:\Users\mitchell\documents\visual studio 2015\Projects\api_test\api_test\bin\Debug\BouncyCastle.Crypto.dll
